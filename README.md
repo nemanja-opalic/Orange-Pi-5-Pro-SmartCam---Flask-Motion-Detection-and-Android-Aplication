@@ -228,4 +228,4 @@ Instead of using the mobile app, open a web browser and navigate to:
 
 ```http://<orange-pi-ip>:8000/```
 
-![WEB preview](/screenshots/web_preview.jpg "WEB preview")
+![WEB preview](web_preview.jpg "WEB preview")
