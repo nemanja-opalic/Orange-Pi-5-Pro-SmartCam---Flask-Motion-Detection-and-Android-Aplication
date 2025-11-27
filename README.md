@@ -218,7 +218,7 @@ For Android:
 
 ```npm run android```
 
-![App preview](/screenshots/app_preview.jpg "App preview")
+![App preview](app_preview.jpg "App preview")
 
 >Ensure that the mobile device and Orange Pi are on the same Wi-Fi network.
 
