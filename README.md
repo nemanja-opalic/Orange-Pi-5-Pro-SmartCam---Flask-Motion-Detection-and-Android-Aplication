@@ -195,9 +195,9 @@ python app.py
 | `/evidencija.json` | Motion detection event log |
 
 ### 🟩 React Native Mobile App Installation
-1. Navigate to mobile folder
+1. Create React Native project
 
-
+```npx @react-native-community/cli@latest init SmartCamApp```
 
 2. Install dependencies
 ```npm install```
@@ -205,7 +205,7 @@ python app.py
 
 Required RN packages:
 
-```ad
+```
 react
 react-native
 react-native-safe-area-context
@@ -214,7 +214,10 @@ react-native-webview
 
 3. Run the mobile app
 
-For Android:
+Start Metro
+
+```npm start```
+Run the app
 
 ```npm run android```
 
