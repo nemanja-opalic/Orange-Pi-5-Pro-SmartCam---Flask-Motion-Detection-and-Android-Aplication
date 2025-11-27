@@ -187,7 +187,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-![Backend running](/screenshots/backend_running.png "Backend running")
+![Backend running](backend_running.png "Backend running")
 
 | Endpoint           | Description                |
 | ------------------ | -------------------------- |
