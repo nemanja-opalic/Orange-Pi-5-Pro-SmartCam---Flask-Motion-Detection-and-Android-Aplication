@@ -217,6 +217,7 @@ react-native-webview
 Start Metro
 
 ```npm start```
+
 Run the app
 
 ```npm run android```
